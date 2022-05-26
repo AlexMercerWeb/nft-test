@@ -1,0 +1,1 @@
+This is a very simple NFT project for learning NFT development in nodejs and hardhat environment
